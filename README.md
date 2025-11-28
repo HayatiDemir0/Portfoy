@@ -22,15 +22,10 @@ Tasarım; **header**, **hero section**, **hakkımda bölümü** ve **footer** i�
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" height="50" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" height="50" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=python" height="50" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=django" height="50" title="Django"/>
 </p>
 
 * **HTML5** – Sayfa yapısı
 * **CSS3** – Stil ve layout
-* **JavaScript** – Dinamik etkileşimler
-* **Python / Django** – Backend geliştirme
 * **Google Fonts** – *Playfair* fontu
 
 ---
