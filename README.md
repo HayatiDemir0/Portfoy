@@ -61,9 +61,8 @@ index.html          # Ana sayfa
 
 ---
 
-## 📜 Lisans
+## 📜 Bilgilendirme
 
 Bu proje açık kaynaklıdır ve kişisel veya eğitim amaçlı kullanılabilir.
 
-<img width="1916" height="726" alt="Portfoy resim" src="https://github.com/user-attachments/assets/17652636-6211-4df8-96d2-d9e71e513ff8" />
 
